@@ -6,7 +6,7 @@ def nor_inv(filename):
             name_ip = tuple(values.split(" ")) 
             newlist.append(name_ip) 
         for name,ip in newlist: 
-            print(f'{name.upper()}:') 
+            print(f"{name.upper()}:") 
             print(f"   hostname: {ip}") 
             print("   group") 
             site_abb = name.split("-") 
