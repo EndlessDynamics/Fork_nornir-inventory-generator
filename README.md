@@ -1,2 +1,1 @@
-# nornir-inventory-generator
-nornir-inventory-generator script for SimpleInventory plugin
+Nornir inventory generator script for SimpleInventory plugin
